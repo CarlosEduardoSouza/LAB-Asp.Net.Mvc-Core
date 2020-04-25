@@ -31,3 +31,4 @@ C:\Labs\MinhaDemoMvc\MinhaDemoMvc\obj\Debug\netcoreapp2.2\MinhaDemoMvc.dll
 C:\Labs\MinhaDemoMvc\MinhaDemoMvc\obj\Debug\netcoreapp2.2\MinhaDemoMvc.pdb
 C:\Labs\MinhaDemoMvc\MinhaDemoMvc\obj\Debug\netcoreapp2.2\MinhaDemoMvc.genruntimeconfig.cache
 C:\Labs\MinhaDemoMvc\MinhaDemoMvc\obj\Debug\netcoreapp2.2\MinhaDemoMvc.csproj.CopyComplete
+C:\Labs\MinhaDemoMvc\MinhaDemoMvc\obj\Debug\netcoreapp2.2\MinhaDemoMvc.csprojAssemblyReference.cache
